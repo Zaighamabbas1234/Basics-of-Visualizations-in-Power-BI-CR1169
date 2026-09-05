@@ -29,11 +29,11 @@ This project explores commonly used Power BI visualizations, including:
 * KPI Visuals.
 Each visualization is used to understand how different chart types communicate different kinds of information.
 # Key Concepts:
-# 1. Data Import:
+## 1. Data Import:
 Learned how to import datasets into Power BI from different sources and prepare them for analysis.
-# 2. Data Cleaning:
+## 2. Data Cleaning:
 Used Power Query to perform basic data transformation and cleaning operations before creating visualizations.
-# 3. Visual Design:
+## 3. Visual Design:
 Applied formatting options such as:
 * Titles.
 * Labels.
@@ -43,9 +43,9 @@ Applied formatting options such as:
 * Borders.
 * Tooltips.
 * Alignment.
-# 4. Filters & Slicers:
+## 4. Filters & Slicers:
 Implemented interactive filters and slicers to allow users to explore specific portions of the dataset.
-# 5. Interactive Reports:
+## 5. Interactive Reports:
 Combined multiple visuals into reports that allow users to interact with and explore the data.
 # What I Learned:
 Through this project, I gained practical experience in:
