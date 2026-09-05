@@ -58,6 +58,6 @@ Through this project, I gained practical experience in:
 * Understanding basic DAX concepts.
 * Presenting analytical information through dashboards.
 
-If you find this repository useful for learning SQL, feel free to star ⭐ the repository and explore the examples.
+If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
 ---
-Thank you for visiting this repository!
+**Thank you for visiting this repository!**
